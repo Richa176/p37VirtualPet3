@@ -7,6 +7,7 @@ var bedroom, garden, washroom;
 var gameState;
 var readState, changeState;
 var bottle;
+var count=0;
 
 function preload()
 {
